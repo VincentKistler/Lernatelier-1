@@ -1,6 +1,6 @@
 # Lernatelier
 
-# Grob-Planung
+#  Grob-Planung
 
 Vincent Kistler
 
@@ -18,6 +18,15 @@ Ich möchte in diesem Zeitrahmen gerne mehr über die Programmier sprache lernen
 - [ ] Die Basics von der Programmier Sprache kennenlernen.
 - [ ] Sich ein Source Code einer berühmten Website anschauen und verstehen wie gewisse Dinge funktionieren.
 - [ ] Generell mehr über das Programmieren lernen.
+
+
+
+## Arbeitspaket für 01.09.2023
+
+- [] Am Modul 431 weiterarbeiten, Mehr Aufträge erledigen als in der Zeitplanung eingeplant ist um Puffer zu erstellen.
+- [] Die Expertenziele im Lernatelier erledigen
+- [] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
+- [] Im Modul 319 Implizit und Explizit bearbeiten.
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
