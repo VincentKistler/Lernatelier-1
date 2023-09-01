@@ -34,7 +34,7 @@ Die Arbeitspakete vom letzen mal konnte ich natürlich nicht erledigen, da diese
 ## Arbeiten erledigt am 01.09.2023
 
 
-In den 4 Lektionen am 01.09.2023 habe ich im Modul 431 den Auftrag 1713, wo man einen Zeitplann verbessern muss, den Auftrag 1715, wo man Checklisten abarbeiten muss und den Auftrag 1718, wo man eine Entscheidungs Tabelle erstellen muss. Im Modul 319 habe ich den Aufttrag Zahlen und Variabeln erledigt, den Auftrag Implizit und Explizit konnte ich leider aus Zeitgründen nicht mehr erledigen, das selbe Problem gilt für die Expertenziele.
+In den 4 Lektionen am 01.09.2023 habe ich im Modul 431 den Auftrag 1713, wo man einen Zeitplann verbessern muss, den Auftrag 1715, wo man Checklisten abarbeiten muss und den Auftrag 1718, wo man eine Entscheidungs Tabelle erstellen muss. Im Modul 319 habe ich den Auftrag Zahlen und Variabeln erledigt, den Auftrag Implizit und Explizit konnte ich leider aus Zeitgründen nicht mehr erledigen, das selbe Problem gilt für die Expertenziele.
 
 ## Arbeitspaket für 15.09.2023
 
