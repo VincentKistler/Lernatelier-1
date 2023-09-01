@@ -25,16 +25,16 @@ Ich möchte in diesem Zeitrahmen gerne mehr über die Programmier sprache lernen
 
 Die Arbeitspakete vom letzen mal konnte ich natürlich nicht erledigen, da diese natürlich auch ein bisschen absurd waren. Dies war aber laut colic nicht schlimm, den es war der erste Eintrag um zu schauen wie die Planung funktionieren würde.
 
-- [ x] Am Modul 431 weiterarbeiten, Mehr Aufträge erledigen als in der Zeitplanung eingeplant ist um Puffer zu erstellen.
+- [x] Am Modul 431 weiterarbeiten, Mehr Aufträge erledigen als in der Zeitplanung eingeplant ist um Puffer zu erstellen.
 - [ ] Die Expertenziele im Lernatelier erledigen
-- [x ] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
+- [x] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
 - [ ] Im Modul 319 Implizit und Explizit bearbeiten.
 
 
 ## Arbeiten erledigt am 01.09.2023
 
-Heute habe ich die Aufträge 1713,1715 und 1718 erledigt(Modul 431). Im Modul 319 habe ich den Auftrag Zahlen und Variabeln erledigt, zum Auftrag Implizit und Explizit bin ich heute leider nicht mehr gekommen wegen Zeit Gründen.
 
+In den 4 Lektionen am 01.09.2023 habe ich im Modul 431 den Auftrag 1713, wo man einen Zeitplann verbessern muss, den Auftrag 1715, wo man Checklisten abarbeiten muss und den Auftrag 1718, wo man eine Entscheidungs Tabelle erstellen muss. Im Modul 319 habe ich den Aufttrag Zahlen und Variabeln erledigt, den Auftrag Implizit und Explizit konnte ich leider aus Zeitgründen nicht mehr erledigen, das selbe Problem gilt für die Expertenziele.
 
 ## Arbeitspaket für 08.09.2023
 
