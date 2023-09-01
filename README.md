@@ -25,9 +25,9 @@ Ich möchte in diesem Zeitrahmen gerne mehr über die Programmier sprache lernen
 
 Die Arbeitspakete vom letzen mal konnte ich natürlich nicht erledigen, da diese natürlich auch ein bisschen absurd waren. Dies war aber laut colic nicht schlimm, den es war der erste Eintrag um zu schauen wie die Planung funktionieren würde.
 
-- [ ] Am Modul 431 weiterarbeiten, Mehr Aufträge erledigen als in der Zeitplanung eingeplant ist um Puffer zu erstellen.
+- [ x] Am Modul 431 weiterarbeiten, Mehr Aufträge erledigen als in der Zeitplanung eingeplant ist um Puffer zu erstellen.
 - [ ] Die Expertenziele im Lernatelier erledigen
-- [ ] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
+- [x ] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
 - [ ] Im Modul 319 Implizit und Explizit bearbeiten.
 
 
