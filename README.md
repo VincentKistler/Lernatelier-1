@@ -30,6 +30,18 @@ Die Arbeitspakete vom letzen mal konnte ich natürlich nicht erledigen, da diese
 - [ ] Im Modul 319 das Arbeitsblatt Zahlen und Variabeln erledigen
 - [ ] Im Modul 319 Implizit und Explizit bearbeiten.
 
+
+## Arbeiten erledigt am 01.09.2023
+
+Heute habe ich die Aufträge 1713,1715 und 1718 erledigt(Modul 431). Im Modul 319 habe ich den Auftrag Zahlen und Variabeln erledigt, zum Auftrag Implizit und Explizit bin ich heute leider nicht mehr gekommen wegen Zeit Gründen.
+
+
+## Arbeitspaket für 08.09.2023
+
+- [ ] Das erste Expertenziel im Modul 431 bearbeiten
+- [ ] Im Modul 319 Aufträge erledigen, um einen Puffer zu schaffen, wo ich an dem Portfolio arbeiten kann.
+- [ ] Eine erste kleine Konsolen App mit C# erstellen.
+
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
 | Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
