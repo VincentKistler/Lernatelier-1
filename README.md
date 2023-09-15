@@ -38,9 +38,26 @@ In den 4 Lektionen am 01.09.2023 habe ich im Modul 431 den Auftrag 1713, wo man 
 
 ## Arbeitspaket für 15.09.2023
 
-- [ ] Das erste Expertenziel im Modul 431 bearbeiten
-- [ ] Im Modul 319 Aufträge erledigen, um einen Puffer zu schaffen, wo ich an dem Portfolio arbeiten kann.
+- [X] Das erste Expertenziel im Modul 431 bearbeiten
+- [x] Im Modul 319 Aufträge erledigen, um einen Puffer zu schaffen, wo ich an dem Portfolio arbeiten kann.
 - [ ] Eine erste kleine Konsolen App mit C# erstellen.
+
+## Arbeiten erledigt am 15.09.2023
+
+Ich habe in den heutigen Lektionen, die als Distanzunterricht durchgeführt wurde, habe ich eins der 2 Expertenziele für das Modul 431 bearbeitet, dies konnte ich auch ohne richtigen Komplikationen bearbeiten. Für das Modul 319 habe ich ein paar Aufträge voraus gearbeitet, so kann ich nächstes mal, wenn ich am Modul 319 Arbeite, mehr Zeit in das Portfolio stecken. Die Konsolen App konnte ich noch nicht Anfangen, da mir für dies die Zeit fehlte.
+
+Ich kann keine Testläufe machen, da ich in den heutigen Lektionen keine Codes geschriben habe.
+
+## Arbeitspakete für 22.09.2023
+
+- [ ] Kleines Programm in C# anfangen
+- [ ] Das kleine Programm fertigstellen
+- [ ] Mit einem Taschenrechner in C# anfangen
+- [ ] Wenn möglich 3/4 des Taschenrechners fertig coden
+      
+
+      
+
 
 | Vorbereitung             | Eingabe | Erwartete Ausgabe |
 | ------------------------ | ------- | ----------------- |
