@@ -50,21 +50,30 @@ Ich kann keine Testläufe machen, da ich in den heutigen Lektionen keine Codes g
 
 ## Arbeitspakete für 22.09.2023
 
-- [ ] Kleines Programm in C# anfangen
-- [ ] Das kleine Programm fertigstellen
+- [x] Kleines Programm in C# anfangen
+- [x] Das kleine Programm fertigstellen
 - [ ] Mit einem Taschenrechner in C# anfangen
 - [ ] Wenn möglich 3/4 des Taschenrechners fertig coden
+
+
+## Arbeiten erledigt am 22.09.2023
+
+Heute im Lernatelier habe ich mit einem Zahleraten spiel angefangen. Dies verlief auch ziemlich gut und ohne richtigen Komplikationen. Das Zahleraten spiel konnte ich sogar auch heute fertigstellen. Für den Taschenrechner fehlte mir natürlich die Zeit, dies war aber auch vorauszusehen, denn wir hatten nur bis um 14:45 Zeit. Da wir nachher noch die Reflexion der ersten Lernperiode verfassen müssen.
+
+
+
+## Reflexion zur 1.Lernperiode
+
+Ich konnte mich am Anfang recht gut in das Lernatelier gewöhnen, da ich dies auch in der Oberstufe hatte und mir das Lernateliert eigentlich immer gut gefallen hat. Da man so frei ist welche und wann man die Arbeiten erledigt. Also war es für mich auch kein grosses Problem in den ersten LA Stunden mit den Arbeiten anzufangen. Die ersten Lernpakete für die ersten La Stunden waren natürlich ein bisschen Banal, da ich noch nicht richtig wusste welche Arbeiten ich mir für nächstes mal einteilen konnte. Also habe ich einfach mal ein bisschen Angefangen an den Modulen zu arbeiten und je 2 Aufträge von Modul 431 und Modul 319 zu erledigen. Auch in den nächsten La Stunden hbae ich an den Modul gearbeitet, da ich auch noch keine richtigen C# Kenntnise habe, diese kann ich erlernen im Modul 319, also ist es auch nicht ganz abwägend, das ich im Lernatelier an dem Modul 319 Arbeite. Auch im Onlineunterricht habe ich an den Modulen gearbeitet, was nicht neu ist. Aber in den heutigen La Lektionen habe ich zum ersten mal ein "Projekt" erarbeitet, ein Zahlenraten spiel, welches ich auch noch heute abschliessen konnte. Alles in allem bin ich aber recht zufrieden wie ich im Lernatelier gearbeitet habe.
+
+
+## Verbesserungen fürs LA
+
+Ich möchte mir Arbeitspakete stellen die nicht mehr all zu viel mit den Modulen zu tun hat, also eigenständige Projekte erarbeiten oder weiteres.
+Auch möchte ich meine Motivation verbesseren, zwischen durch ist sie nicht gerade die beste und ich habe auch keine Lust mehr zu arbeiten. Also könnte ich mir eine Belohnung am ende jeder La Lektion geben, um meine Motivation anzukurbeln.
       
 
-      
 
 
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
 
 ✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.````
